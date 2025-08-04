@@ -1,4 +1,7 @@
-export default defineConfig({
+const path = require('path');
+const react = require('@vitejs/plugin-react').default;
+
+module.exports = {
   base: '/cxldkid_site/',
   plugins: [react()],
   resolve: {
@@ -6,4 +9,4 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-})
+};
