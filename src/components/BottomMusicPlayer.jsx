@@ -11,7 +11,7 @@ const playlist = [
     lyrics: `Girl it's 2am and you don't pick up your phone
 And then you wanna tell me that you been out with no one
 It's not a secret
-Baby why you keep it from me
+Baby why you keep it from me,
 
 Huh
 When you press send where do you go
